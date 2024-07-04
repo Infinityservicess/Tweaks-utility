@@ -19,5 +19,5 @@ this tool mainly focuses on debloating your windows for better performance and l
 **📌 better tweaks**
 - 🎯 Want better tweaks and unleashing the best out of your pc?
 - 
-- **discord: ** https://discord.gg/QcKg8UfbdB
-- **showcase: ** https://www.youtube.com/watch?v=If8XhqGHoQ8
+- **discord:** https://discord.gg/QcKg8UfbdB
+- **showcase:** https://www.youtube.com/watch?v=If8XhqGHoQ8
